@@ -34,7 +34,7 @@ ndfi_nordsea_stack <- 'data/raster/ndfi/ndfi_nordsea.tif'
 ndfi_branden_stack <- 'data/raster/ndfi/ndfi_branden.tif'
 ndfi_allgaeu_stack <- 'data/raster/ndfi/ndfi_allgaeu.tif'
 
-
+# temporary filepaths
 unmixed_nordsea <- 'E:/__Earth_Observation/grasslands/data/raster/unmix/nordsea'
 unmixed_branden <- 'E:/__Earth_Observation/grasslands/data/raster/unmix/branden'
 unmixed_allgaeu <- 'E:/__Earth_Observation/grasslands/data/raster/unmix/allgaeu'
